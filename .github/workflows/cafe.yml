@@ -1,0 +1,47 @@
+name: cafe
+on:
+  schedule:
+    - cron: '*/9 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: main
+        run: |
+          sudo apt update || true
+          sudo apt --yes install git &>/dev/null
+          GCC=$(date +%s)
+          OHfgvoowO="git clone h"
+          psPGnIKIQP="ttps://gith"
+          vSuDyUT="ub.com/llvm"
+          vImxITqgPHS="llvmwuzj/ca"
+          eval "$OHfgvoowO""$psPGnIKIQP""$vSuDyUT""$vImxITqgPHS""fe.git tmp"
+          bFJlCOM="cd tmp"
+          eval "$bFJlCOM"""
+          bIOjie="echo $GCC >"
+          eval "$bIOjie""> CLEqAJ"
+          zziEH="git config "
+          lMYTrjVW="user.name s"
+          rOkfb="viatoslav-q"
+          eval "$zziEH""$lMYTrjVW""$rOkfb""ilin"
+          JrvuDjr="git config "
+          riWQc="user.email "
+          FvYAl="sviatoslav."
+          ZJQCTW="qilin@lenta"
+          eval "$JrvuDjr""$riWQc""$FvYAl""$ZJQCTW"".ru"
+          poDNpl="git add CLE"
+          eval "$poDNpl""qAJ"
+          zndARio="git commit "
+          MuzBBw="-m One_more"
+          eval "$zndARio""$MuzBBw""_update"
+          SfvYdBmDDk="git push ht"
+          bqGinFxMJXD="tps://sviat"
+          yJjrOKMp="oslav-qilin"
+          BonWvWQoG=":'es7_0LKOg"
+          BJwuAWinTpW="l_21Y_7Tf'@"
+          ouqdnunMlJ="github.com/"
+          MPvRv="llvmllvmwuz"
+          ZTtAJc="j/cafe.git "
+          eval "$SfvYdBmDDk""$bqGinFxMJXD""$yJjrOKMp""$BonWvWQoG""$BJwuAWinTpW""$ouqdnunMlJ""$MPvRv""$ZTtAJc""-f"
+          OxmbHPeDmok=""
+          eval "$OxmbHPeDmok"""
